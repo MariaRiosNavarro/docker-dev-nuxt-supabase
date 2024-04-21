@@ -115,3 +115,5 @@ onMounted(() => {
 provide("supabaseClient", supabase);
 </script>
 ```
+
+![readmeImage](/readme_assets/result.png)
